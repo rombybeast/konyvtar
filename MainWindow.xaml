@@ -54,7 +54,7 @@
                 VerticalAlignment="Top" HorizontalAlignment="Left" Click="btn_mentes_Click"/>
 
 		
-		<TextBlock x:Name="tbl_status" Margin="240,230,0,0" VerticalAlignment="Top" HorizontalAlignment="Left"
+		<TextBlock x:Name="tbl_status" Margin="240,230,0,0"   VerticalAlignment="Top" HorizontalAlignment="Left"
                    Width="200" Text=""/>
 
 		<TextBlock Text="Regisztrált olvasók:" Margin="10,280,0,0" VerticalAlignment="Top" HorizontalAlignment="Left"/>
